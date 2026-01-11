@@ -79,7 +79,7 @@ const Footer = () => {
       </div>
 
       <div className="max-w-7xl mx-auto mt-20 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-xs text-blue-200/40 space-y-4 md:space-y-0">
-        <div>© 2024 LoveAll AI Inc.</div>
+        <div>© 2026 LoveAll AI Inc. • v1.0.1</div>
         <div className="font-serif italic">Designed with passion in California.</div>
       </div>
     </footer>
